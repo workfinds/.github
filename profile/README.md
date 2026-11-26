@@ -14,6 +14,7 @@
 - Website: [workfinds.app](https://workfinds.app)
 - iOS app: [App Store](https://apps.apple.com/app/id6826945980)
 - Android app: in closed testing on Google Play, see [workfinds.app](https://workfinds.app) for the current status
+- ChatGPT: the [workfinds.app plugin](https://chatgpt.com/plugins/plugin_asdk_app_6af5a671610c8191aacf3a15581b31ce)
 - Search jobs from an AI assistant: [workfinds.app/mcp](https://workfinds.app/mcp), with the connection files in [workfinds/mcp](https://github.com/workfinds/mcp)
 
 ## Countries
